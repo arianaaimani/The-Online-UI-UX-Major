@@ -22,9 +22,9 @@ The author made their New Years Resolution public by publishing 31 lessons on UX
 
 ##Skillset courses:
 
-1.[UX Design classes from Skillshare] (https://www.skillshare.com/classes/ux-design)
+[UX Design classes from Skillshare] (https://www.skillshare.com/classes/ux-design)
 
-2.[UI Design classes from Skillshare](https://www.skillshare.com/classes/ui-design)
+[UI Design classes from Skillshare](https://www.skillshare.com/classes/ui-design)
 
 ## Toolkits
 [UI Design Toolkit] (https://hackdesign.org/toolkit/ui-design)
