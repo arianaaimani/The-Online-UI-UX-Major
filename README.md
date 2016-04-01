@@ -6,10 +6,7 @@ Before you begin this journey of entering the field of UX/UI, you should read [t
 ## Crash Courses: UX
 [UX Crash Course 31 Fundamentals] (http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 
-The author made their New Years Resolution public by publishing 31 lessons on UX in the month of January. The month long crash course has topics ranging from what UX is all the way to A/B testing. 
-
 [Hack Design's Intro to User Experience] (https://hackdesign.org/lessons/9)
-
 
 ## UX/UI Courses
 [User Interface Design and Implementation from MIT's Robert Miller]
@@ -32,6 +29,9 @@ The author made their New Years Resolution public by publishing 31 lessons on UX
 [Rapid Prototyping] (https://hackdesign.org/toolkit/rapid-prototyping)
 
 [Interaction Design] (https://hackdesign.org/toolkit/interaction-design)
+
+## The Field of UX/UI
+[The Future of UX Design] (http://thenextweb.com/uxdesign/2015/06/23/future-ux-design/)
 
 ## People to Follow
 [Allison House] (http://allison.house/about/)
