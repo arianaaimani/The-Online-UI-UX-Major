@@ -32,6 +32,7 @@ Before you begin this journey of entering the field of UX/UI, you should read [t
 
 ## The Field of UX/UI
 [The Future of UX Design] (http://thenextweb.com/uxdesign/2015/06/23/future-ux-design/)
+
 [4 Mental Habits You Need in Life] (http://www.fastcompany.com/3058214/how-to-be-a-success-at-everything/four-mental-habits-of-highly-successful-entrepreneurs?sf45421553=1)
 
 ## People to Follow
